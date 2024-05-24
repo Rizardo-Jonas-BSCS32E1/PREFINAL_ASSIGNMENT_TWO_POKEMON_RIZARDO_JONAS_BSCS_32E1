@@ -1,0 +1,67 @@
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\appsettings.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.staticwebassets.runtime.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.exe
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.deps.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.runtimeconfig.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.dll
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.pdb
+D:\Visual studio project\PokemonWeb\PokemonWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.csproj.AssemblyReference.cache
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.AssemblyInfoInputs.cache
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.AssemblyInfo.cs
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.csproj.CoreCompileInputs.cache
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.RazorAssemblyInfo.cache
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.RazorAssemblyInfo.cs
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.PokemonWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.PokemonWeb.props
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokemonWeb.props
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokemonWeb.props
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\scopedcss\bundle\PokemonWeb.styles.css
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\scopedcss\projectbundle\PokemonWeb.bundle.scp.css
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.csproj.Up2Date
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.dll
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\refint\PokemonWeb.dll
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.pdb
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.genruntimeconfig.cache
+D:\Visual studio project\PokemonWeb\PokemonWeb\obj\Debug\net8.0\ref\PokemonWeb.dll
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\appsettings.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.staticwebassets.runtime.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.exe
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.deps.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.runtimeconfig.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.dll
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\PokemonWeb.pdb
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.csproj.AssemblyReference.cache
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.AssemblyInfoInputs.cache
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.AssemblyInfo.cs
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.csproj.CoreCompileInputs.cache
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.RazorAssemblyInfo.cache
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.RazorAssemblyInfo.cs
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.sourcelink.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.PokemonWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.PokemonWeb.props
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokemonWeb.props
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokemonWeb.props
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\scopedcss\bundle\PokemonWeb.styles.css
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\scopedcss\projectbundle\PokemonWeb.bundle.scp.css
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.csproj.Up2Date
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.dll
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\refint\PokemonWeb.dll
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.pdb
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\PokemonWeb.genruntimeconfig.cache
+C:\Users\JONAS\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_RIZARDO_JONAS_BSCS_32E1\PokemonWeb\PokemonWeb\obj\Debug\net8.0\ref\PokemonWeb.dll
